@@ -6,6 +6,8 @@ import threading
 from datetime import datetime
 import json
 
+# Comment made from server
+
 clients_lock = threading.Lock()
 connected = 0
 
